@@ -1,0 +1,19 @@
+html {
+    max-width: 960px;
+    font-family: 'Lora', serif;
+}
+
+img {
+    max-width: 100%;
+}
+
+figure {
+    padding: 5%;
+    background-color:antiquewhite;
+}
+
+figcaption {
+    font-size: 80%;
+    font-style: italic;
+    text-align: center;
+}
