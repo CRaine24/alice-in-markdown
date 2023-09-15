@@ -1,5 +1,5 @@
-CHAPTER IV.
-The Rabbit Sends in a Little Bill
+# CHAPTER IV.
+## The Rabbit Sends in a Little Bill
 
 
 It was the White Rabbit, trotting slowly back again, and looking
@@ -63,6 +63,8 @@ Still she went on growing, and, as a last resource, she put one arm out
 of the window, and one foot up the chimney, and said to herself “Now I
 can do no more, whatever happens. What _will_ become of me?”
 
+![Illustration of Alice grown and filling the room](img/illustration-11.png)
+
 Luckily for Alice, the little magic bottle had now had its full effect,
 and she grew no larger: still it was very uncomfortable, and, as there
 seemed to be no sort of chance of her ever getting out of the room
@@ -107,6 +109,8 @@ hand, and made a snatch in the air. She did not get hold of anything,
 but she heard a little shriek and a fall, and a crash of broken glass,
 from which she concluded that it was just possible it had fallen into a
 cucumber-frame, or something of the sort.
+
+![Illustration of Alice stretching out her hand toward the White Rabbit](img/illustration-12.png)
 
 Next came an angry voice—the Rabbit’s—“Pat! Pat! Where are you?” And
 then a voice she had never heard before, “Sure then I’m here! Digging
@@ -158,6 +162,8 @@ she heard a little animal (she couldn’t guess of what sort it was)
 scratching and scrambling about in the chimney close above her: then,
 saying to herself “This is Bill,” she gave one sharp kick, and waited
 to see what would happen next.
+
+![Illustration of Bill flying up out of the chimney](img/illustration-13.png)
 
 The first thing she heard was a general chorus of “There goes Bill!”
 then the Rabbit’s voice along—“Catch him, you by the hedge!” then
@@ -218,6 +224,8 @@ thing!” said Alice, in a coaxing tone, and she tried hard to whistle to
 it; but she was terribly frightened all the time at the thought that it
 might be hungry, in which case it would be very likely to eat her up in
 spite of all her coaxing.
+
+![Illustration of Alice holding out a stick to the puppy](img/illustration-14.png)
 
 Hardly knowing what she did, she picked up a little bit of stick, and
 held it out to the puppy; whereupon the puppy jumped into the air off
