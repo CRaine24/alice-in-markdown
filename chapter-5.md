@@ -303,3 +303,10 @@ upon an open place, with a little house in it about four feet high.
 _this_ size: why, I should frighten them out of their wits!” So she
 began nibbling at the righthand bit again, and did not venture to go
 near the house till she had brought herself down to nine inches high.
+
+### List of Illustrations
+- Figure 1: "The Caterpillar and Alice looked at each other for some time in silence"
+- Figure 2: "And yet you incessantly stand on your head"
+- Figure 3: "Yet you turned a back-somersault in at the door"
+- Figure 4: "Yet you finished the goose, with the bones and the beak"
+- Figure 5: "Yet you balance an eel on the end of your nose"
