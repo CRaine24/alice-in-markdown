@@ -1,6 +1,8 @@
 html {
     max-width: 960px;
     font-family: 'Lora', serif;
+    font-size: 16px;
+    line-height: 1.35;
 }
 
 img {
