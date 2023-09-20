@@ -1,3 +1,5 @@
+![Illustration of Alice and the caterpillar](img/illustration-15.png "The Caterpillar and Alice looked at each other for some time in silence")
+
 # CHAPTER V.
 ## Advice from a Caterpillar
 
@@ -80,6 +82,8 @@ came different!” Alice replied in a very melancholy voice.
 
 Alice folded her hands, and began:—
 
+![Illustration of the youth and the old man standing on his head](img/illustration-16.png "And yet you incessantly stand on your head")
+
 *“You are old, Father William,” the young man said,*
     *“And your hair has become very white;*
 *And yet you incessantly stand on your head—*
@@ -89,6 +93,8 @@ Alice folded her hands, and began:—
     *“I feared it might injure the brain;*
 *But, now that I’m perfectly sure I have none,*
     *Why, I do it again and again.”*
+
+![Illustration of the youth and the old man turning a back-somersault through the door](img/illustration-17.png "Yet you turned a back-somersault in at the door")
 
 *“You are old,” said the youth, “as I mentioned before,*
     *And have grown most uncommonly fat;*
@@ -100,6 +106,8 @@ Alice folded her hands, and began:—
 *By the use of this ointment—one shilling the box—*
     *Allow me to sell you a couple?”*
 
+![Illustration of the youth and the old man eating a goose](img/illustration-18.png "Yet you finished the goose, with the bones and the beak")
+
 *“You are old,” said the youth, “and your jaws are too weak*
     *For anything tougher than suet;*
 *Yet you finished the goose, with the bones and the beak—*
@@ -109,6 +117,8 @@ Alice folded her hands, and began:—
     *And argued each case with my wife;*
 *And the muscular strength, which it gave to my jaw,*
     *Has lasted the rest of my life.”*
+
+![Illustration of the youth and the old man balancing an eel on the end of his nose](img/illustration-19.png "Yet you balance an eel on the end of your nose")
 
 *“You are old,” said the youth, “one would hardly suppose*
     *That your eye was as steady as ever;*
